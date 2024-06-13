@@ -1,6 +1,6 @@
 version: '3'
 services:
   nginx:
-    image: kazubou/docker-cicd:202406131042
+    image: kazubou/docker-cicd:202406131122
     ports:
       - "8080:80"
